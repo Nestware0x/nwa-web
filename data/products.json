@@ -1,6 +1,6 @@
 [
   {
-    "id": "nwa1",
+    "id": "fatnessor",
     "name": "Fatnessor",
     "tagline": "60種類のディストーションアルゴリズム搭載プラグイン",
     "description": "多彩なディストーションアルゴリズムを備えた VST3/AU 対応のディストーションプラグイン。",
@@ -33,7 +33,7 @@
     "hidden": false
   },
   {
-    "id": "nwa2",
+    "id": "truelevels",
     "name": "TrueLevels",
     "tagline": "ゲインマッチプラグイン",
     "description": "入力／出力のラウドネスを自動で揃えるゲインマッチプラグイン。ミックスの比較作業を正確に行えます。",
