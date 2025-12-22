@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "ホーム",
+    "products": "製品",
+    "faq": "FAQ",
+    "about": "About",
+    "terms": "利用規約",
+    "getPlugins": "プラグインを入手"
+  },
+  "home": {
+    "explore": "プラグインを探す",
+    "ourStory": "NWAについて",
+    "scroll": "SCROLL",
+    "newRelease": "新製品",
+    "getItNow": "詳細を見る",
+    "features": {
+      "zeroLatency": {
+        "title": "新製品を即提供",
+        "desc": "リリースのサイクルが他社と比べて非常に早いです。"
+      },
+      "intuitive": {
+        "title": "大手よりも低価格",
+        "desc": "円安も考慮した価格設定で製品を提供します。"
+      },
+      "proSound": {
+        "title": "数少ない日本製",
+        "desc": "日本発のプラグインメーカーです。NWAでは「尖ったプラグイン」を提供しています！"
+      }
+    }
+  },
+  "products": {
+    "title": "製品一覧",
+    "subtitle": "あなたの制作を向上させるプレミアムなオーディオプラグインコレクション。",
+    "new": "NEW",
+    "price": "価格",
+    "viewDetail": "詳細を見る",
+    "buy": "ダウンロード",
+    "backToProducts": "製品一覧に戻る",
+    "free": "FREE"
+  },
+  "faq": {
+    "title": "よくある質問",
+    "subtitle": "Nestware Audio製品に関するすべての情報。",
+    "contact": {
+      "title": "まだ質問がありますか？",
+      "desc": "私たちがあなたのサウンド作りをサポートします。",
+      "button": "サポートに連絡"
+    }
+  },
+  "about": {
+    "weAre": "",
+    "design": {
+      "main": "Designed in Tokyo.",
+      "sub": ""
+    },
+    "values": {
+      "musicians": {
+        "title": "価格 & 機能性を重視",
+        "desc": "NWAではこの2つが非常に尖っています。"
+      },
+      "code": {
+        "title": "軽量な設計",
+        "desc": "パフォーマンスは重要です。ストレスのないユーザー体験を提供します。"
+      },
+      "support": {
+        "title": "DMで直接対応",
+        "desc": "製品に関する質問を全面的にサポートします。"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Break the Norm",
+    "rights": "All rights reserved."
+  }
+}

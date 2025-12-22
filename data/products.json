@@ -1,0 +1,126 @@
+[
+  {
+    "id": "nwa1",
+    "name": "Fatnessor",
+    "tagline": "60種類のディストーションアルゴリズム搭載プラグイン",
+    "description": "多彩なディストーションアルゴリズムを備えた VST3/AU 対応のディストーションプラグイン。",
+    "longDescription": "60種類以上のディストーションとサチュレーションアルゴリズム、独自のエンハンサーシステム「Clarity Engine」を搭載した、NWA初リリースのVSTプラグイン「Fatnessor」です。",
+    "price": 0,
+    "currency": "JPY",
+    "image": "https://booth.pximg.net/89fbf6d4-34b9-4f1c-aeaf-d0e43a6efb5a/i/7660198/dabfeebe-92eb-4111-b1dc-4c7e3768c34a_base_resized.jpg",
+    "version": "v1.1.3",
+    "features": [
+      "60 種類の歪みアルゴリズム",
+      "VST3 / AU 対応",
+      "直感的な UI",
+      "Windows / macOS 対応"
+    ],
+    "specs": [
+      "VST3 / AU プラグイン形式",
+      "Windows 10 以上 / macOS 10.13 以上",
+      "CPU: Intel / Apple Silicon 対応"
+    ],
+    "statusBadge": "First Product",
+    "ctaText": "ダウンロード",
+    "downloads": [
+      { "label": "BOOTHでダウンロード", "url": "https://nestware-audio.booth.pm/items/7660198", "type": "booth" },
+      { "label": "直接ダウンロード (Win)", "url": "#", "type": "direct" },
+      { "label": "直接ダウンロード (Mac)", "url": "#", "type": "direct" }
+    ],
+    "supportedPlatforms": ["windows", "mac", "vst3", "au"],
+    "category": "Effect",
+    "releaseDate": "2025-11-30",
+    "hidden": false
+  },
+  {
+    "id": "nwa2",
+    "name": "TrueLevels",
+    "tagline": "ゲインマッチプラグイン",
+    "description": "入力／出力のラウドネスを自動で揃えるゲインマッチプラグイン。ミックスの比較作業を正確に行えます。",
+    "longDescription": "TrueLevels は、ミックスやエフェクト処理前後の音量を正確に比較するためのゲインマッチプラグインです。Peak レベルや LUFS を考慮した自動調整機能により、音量差による錯覚を排除し、真の音質評価をサポートします。シンプルな操作性で、どの DAW でも効率的に利用できます。",
+    "price": 0,
+    "currency": "JPY",
+    "image": "https://booth.pximg.net/89fbf6d4-34b9-4f1c-aeaf-d0e43a6efb5a/i/7732998/0ebb044b-d0ca-41aa-8668-d6533cd30d42_base_resized.jpg",
+    "version": "v0.1.1 Beta",
+    "features": [
+      "自動ゲインマッチ機能",
+      "Peak / LUFS 対応",
+      "軽量で低レイテンシー",
+      "VST3 プラグイン"
+    ],
+    "specs": [
+      "VST3 形式",
+      "Windows 対応"
+    ],
+    "statusBadge": "BETA",
+    "ctaText": "ベータ版を試す",
+    "downloads": [
+      { "label": "BOOTH (無料)", "url": "https://nestware-audio.booth.pm/items/7732998", "type": "booth" }
+    ],
+    "supportedPlatforms": ["windows", "vst3"],
+    "category": "Utility",
+    "releaseDate": "2025-12-06",
+    "hidden": false
+  },
+  {
+    "id": "nwa4",
+    "name": "DirectChrome",
+    "tagline": "Chromium搭載ブラウザプラグイン",
+    "description": "DAWでChromeを直接実行できるプラグインです。",
+    "longDescription": "DirectChrome は、その名の通り直接DAWでブラウザを起動し、ブラウザ内の音声をそのままDAWへ転送します。設定なしですぐに使えます。リファレンス楽曲をわざわざダウンロードしなくてもその場で比較ができます。",
+    "price": 0,
+    "currency": "JPY",
+    "image": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?q=80&w=800&auto=format&fit=crop",
+    "version": "v0.1.0 Beta",
+    "features": [
+      "ブラウザ内音声をDAWへ直接転送",
+      "唯一無料で提供されている",
+      "軽量で低レイテンシー",
+      "Chromium搭載"
+    ],
+    "specs": [
+      "VST3 形式",
+      "Windows 対応"
+    ],
+    "statusBadge": "BETA",
+    "ctaText": "提供されていません",
+    "downloads": [
+      { "label": "BOOTH (無料)", "url": "https://nestware-audio.booth.pm/", "type": "booth" }
+    ],
+    "supportedPlatforms": ["windows", "vst3"],
+    "category": "Utility",
+    "releaseDate": "2024-05-20",
+    "hidden": true
+  },
+  {
+    "id": "nwa3",
+    "name": "Sample Deck Pro",
+    "tagline": "マンネリ化を破壊するサンプルプラグイン",
+    "description": "ワンボタンでサンプルをランダムチョイスしてくれるプラグインです。",
+    "longDescription": "Sample Deck Proは、ワンボタンで15個のサンプルをランダムでチョイスし、あなたに新たなアイデアを提供するプラグインです。最近「同じサンプルばかりを使用してしまっていたり」「アイデアが全く思い浮かばない」「ついいろいろなサンプルパック買ってしまって使い切れていない」という方に非常に強力な味方になってくれます。",
+    "price": 7980,
+    "salePrice": 999999999,
+    "currency": "JPY",
+    "image": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=800&auto=format&fit=crop",
+    "version": "v1.0.0",
+    "features": [
+      "15個のサンプルを同時にランダムチョイス",
+      "ワンクリックでサンプルをプレビュ－再生",
+      "見つけたサンプルをお気に入り登録可能（Pro Only）",
+      "DAWに直接サンプルをドラッグアンドドロップ可能",
+      "高品質なGUI"
+    ],
+    "specs": [
+      "Windows / macOS",
+      "VST3 / AU"
+    ],
+    "statusBadge": "DISCONTINUED",
+    "ctaText": "販売終了",
+    "downloads": [],
+    "supportedPlatforms": ["windows", "mac", "vst3", "au", "aax"],
+    "category": "Instrument",
+    "releaseDate": "2023-05-10",
+    "hidden": true,
+    "discontinued": true
+  }
+]
