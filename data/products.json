@@ -63,10 +63,10 @@
     "hidden": false
   },
   {
-    "id": "nwa4",
+    "id": "direct-chrome",
     "name": "DirectChrome",
     "tagline": "Chromium搭載ブラウザプラグイン",
-    "description": "DAWでChromeを直接実行できるプラグインです。",
+    "description": "DAWでChromeを直接実行できるプラグイン",
     "longDescription": "DirectChrome は、その名の通り直接DAWでブラウザを起動し、ブラウザ内の音声をそのままDAWへ転送します。設定なしですぐに使えます。リファレンス楽曲をわざわざダウンロードしなくてもその場で比較ができます。",
     "price": 0,
     "currency": "JPY",
@@ -86,12 +86,12 @@
     "ctaText": "提供されていません",
     "downloads": [
       { "label": "BOOTH (無料)", "url": "https://nestware-audio.booth.pm/", "type": "booth" },
-      { "label": "直接ダウンロード (Win)", "url": "https://github.com/Nestware0x/nwa-web/releases/download/TrueLevels-Archives/NWA.TrueLevels.0.1.1.Beta.exe", "type": "direct" }
+      { "label": "直接ダウンロード (Win)", "url": "#", "type": "direct" }
     ],
     "supportedPlatforms": ["windows", "vst3"],
     "category": "Utility",
-    "releaseDate": "2024-05-20",
-    "hidden": true
+    "releaseDate": "2025-12-23",
+    "hidden": false
   },
   {
     "id": "nwa3",
