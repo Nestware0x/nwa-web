@@ -70,7 +70,7 @@
     "longDescription": "DirectChrome は、その名の通り直接DAWでブラウザを起動し、ブラウザ内の音声をそのままDAWへ転送します。設定なしですぐに使えます。リファレンス楽曲をわざわざダウンロードしなくてもその場で比較ができます。",
     "price": 0,
     "currency": "JPY",
-    "image": "https://images.unsplash.com/photo-1633412802994-5c058f151b66?q=80&w=800&auto=format&fit=crop",
+    "image": "https://booth.pximg.net/89fbf6d4-34b9-4f1c-aeaf-d0e43a6efb5a/i/7799004/0b44211d-e1ba-4bf2-99f9-40930eba12aa_base_resized.jpg",
     "version": "v0.1.0 Beta",
     "features": [
       "ブラウザ内音声をDAWへ直接転送",
@@ -84,9 +84,9 @@
       "ベータ版の製品です。利用規約を必ずご確認ください。"
     ],
     "statusBadge": "BETA",
-    "ctaText": "提供されていません",
+    "ctaText": "ダウンロード",
     "downloads": [
-      { "label": "BOOTH (無料)", "url": "https://nestware-audio.booth.pm/", "type": "booth" },
+      { "label": "BOOTH (無料)", "url": "https://nestware-audio.booth.pm/items/7799004", "type": "booth" },
       { "label": "直接ダウンロード (Win)", "url": "https://github.com/Nestware0x/nwa-web/releases/download/DirectChrome-Archives/Win_DirectChrome_Install.exe", "type": "direct" }
     ],
     "supportedPlatforms": ["windows", "vst3"],
